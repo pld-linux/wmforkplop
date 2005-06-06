@@ -12,6 +12,7 @@ URL:		http://hules.free.fr/wmforkplop/
 BuildRequires:	XFree86-devel
 BuildRequires:	imlib2-devel
 BuildRequires:	libgtop-devel >= 1:2.10.1-5
+BuildRequires:	pkgconfig
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
