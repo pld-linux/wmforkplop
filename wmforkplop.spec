@@ -1,12 +1,12 @@
 Summary:	Kernel processes monitoring dock app
 Summary(pl):	Aplet monitoruj±cy procesy j±dra
 Name:		wmforkplop
-Version:	0.9.1
-Release:	5
+Version:	0.9.2
+Release:	1
 License:	GPL
 Group:		X11/Window Managers/Tools
 Source0:	http://hules.free.fr/%{name}/%{name}-%{version}.tar.gz
-# Source0-md5:	74d25af52db37c613aa935c33c49c272
+# Source0-md5:	70d5ab10614f773674f6c957ddeb1afd
 Source1:	%{name}.desktop
 URL:		http://hules.free.fr/wmforkplop/
 BuildRequires:	XFree86-devel
