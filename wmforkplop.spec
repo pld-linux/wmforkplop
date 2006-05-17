@@ -5,13 +5,13 @@ Version:	0.9.2
 Release:	1
 License:	GPL
 Group:		X11/Window Managers/Tools
-Source0:	http://hules.free.fr/%{name}/%{name}-%{version}.tar.gz
+Source0:	http://hules.free.fr/wmforkplop/%{name}-%{version}.tar.gz
 # Source0-md5:	70d5ab10614f773674f6c957ddeb1afd
 Source1:	%{name}.desktop
 URL:		http://hules.free.fr/wmforkplop/
 BuildRequires:	XFree86-devel
 BuildRequires:	imlib2-devel
-BuildRequires:	libgtop-devel >= 1:2.10.1-5
+BuildRequires:	libgtop-devel >= 1:2.14.0
 BuildRequires:	pkgconfig
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
