@@ -1,5 +1,5 @@
 Summary:	Kernel processes monitoring dock app
-Summary(pl.UTF-8):   Aplet monitorujący procesy jądra
+Summary(pl.UTF-8):	Aplet monitorujący procesy jądra
 Name:		wmforkplop
 Version:	0.9.2
 Release:	1
