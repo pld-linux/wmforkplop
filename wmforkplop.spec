@@ -1,5 +1,5 @@
 Summary:	Kernel processes monitoring dock app
-Summary(pl):	Aplet monitoruj±cy procesy j±dra
+Summary(pl.UTF-8):   Aplet monitorujÄ…cy procesy jÄ…dra
 Name:		wmforkplop
 Version:	0.9.2
 Release:	1
@@ -20,10 +20,10 @@ wmforkplop is a blend of wmhdplop and wmtop. It monitors the forking
 activity of the kernel and displays a list of the most cpu-consuming
 processes.
 
-%description -l pl
-wmforkplop jest po³±czeniem wmhdplopa i wmtopa monitoruj±cym tworzenie
-przez j±dro nowych procesów i wy¶wietlaj±cym te najbardziej
-obci±¿aj±ce procesor.
+%description -l pl.UTF-8
+wmforkplop jest poÅ‚Ä…czeniem wmhdplopa i wmtopa monitorujÄ…cym tworzenie
+przez jÄ…dro nowych procesÃ³w i wyÅ›wietlajÄ…cym te najbardziej
+obciÄ…Å¼ajÄ…ce procesor.
 
 %prep
 %setup -q
